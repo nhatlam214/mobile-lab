@@ -1,14 +1,4 @@
-# Expo Router Example
+Lab for Cross Platform Mobile App
 
-Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native navigation using files in the `app/` directory.
-
-## 🚀 How to use
-
-```sh
-npx create-expo-app -e with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
-# mobile-lab
+Lab 1: I am rich
+Video demo: [Iam Rich Demo](https://drive.google.com/file/d/1WeaMe6-5U_1aZVhoGT2rhLRfBjxZyLQk/view?usp=drive_link)
